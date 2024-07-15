@@ -28,8 +28,8 @@ the user ID is the primary key and foreign key for both tables. The User table h
 
 Steps to seed data to DB:
 
-Make DB on Google Cloud.
+1. Make DB on Google Cloud.
 
-Download data to folder.
+2. Download data to folder.
 
-Run the following command: mysql -u root -h "INSERT DB IP HERE" -p < database-file.sql
+3. Run the following command: mysql -u root -h "INSERT DB IP HERE" -p < database-file.sql
