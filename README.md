@@ -2,7 +2,7 @@
 
 Data I will need:
 
-<bold> Table1: User </bold>
+<b> Table1: User </b>
 
 -user ID
 
