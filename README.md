@@ -3,10 +3,15 @@
 Data I will need:
 
 Table1: User
+
 -user ID
+
 -email
+
 -password
+
 -ingredients in fridge and pantry
+
 -dietary restrictions
 
 Table2: Recipes
