@@ -1,6 +1,5 @@
 # Recipe-Rescue
 
-Data I will need:
 
 <b> Table1: User </b>
 
@@ -14,7 +13,7 @@ Data I will need:
 
 -dietary restrictions
 
-Table2: Recipes
+<b> Table2: Recipes </b>
 
 -user ID
 
